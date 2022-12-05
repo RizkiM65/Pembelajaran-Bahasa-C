@@ -1,7 +1,0 @@
-#include <stdio.h> //library standar baca tulis (input output)
-
-int main(void) 
-{ /*badan program*/
-  printf("Hello World!"); //printf()fungsi untuk memprint atau menampilkan perkataan dalam sel
-  return 0;
-}
